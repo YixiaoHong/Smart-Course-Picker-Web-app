@@ -5,15 +5,15 @@
 
 ## How to use
 - Step1:
-<img src="others/main.jpg">
+<img src="others/main.png">
 - Step2:
-<img src="others/step1.jpg">
+<img src="others/step1.png">
 - Step3:
-<img src="others/step2.jpg">
+<img src="others/step2.png">
 - Step4:
-<img src="others/step3.jpg">
+<img src="others/step3.png">
 - Step5:
-<img src="others/result.jpg">
+<img src="others/result.png">
 
 
 ## Instructions
