@@ -5,15 +5,15 @@
 
 ## How to use
 - Step1:
-<img src="others/main.png width="600">
+<img src="others/main.png" width="600">
 - Step2:
-<img src="others/step1.png width="600">
+<img src="others/step1.png" width="600">
 - Step3:
-<img src="others/step2.png width="600">
+<img src="others/step2.png" width="600">
 - Step4:
-<img src="others/step3.png width="600">
+<img src="others/step3.png" width="600">
 - Step5:
-<img src="others/result.png width="600">
+<img src="others/result.png" width="600">
 
 
 ## Instructions
