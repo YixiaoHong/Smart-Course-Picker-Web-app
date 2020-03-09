@@ -4,7 +4,7 @@
 “Smart Course Picker” collects the newest course information in the database and user can filter the courses he/she want to pick by category and course topics. After selected which courses the user wants to take and which courses the user must want to put into the timetable, the system will run the searching algorithm and display possible non-conflicting solutions. The user can also check the updated statistical diagram of what popular courses other users are searching for to help with the course selection.
 
 ## Deployed AWS Lambda Serverless WebApp
-https://b2r8encet4.execute-api.us-east-1.amazonaws.com/dev
+https://yb8jsuwnw3.execute-api.us-east-1.amazonaws.com/dev
 
 ## How to use
 - Step1:
